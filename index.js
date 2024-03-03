@@ -2,12 +2,10 @@ const express = require('express')
 const app = express();
 const path = require('path')
 const PORT = 40;
-const logEvent =require('./middleware/logEvent');
- 
-app.use((req,res,next)=>{
-logEvent(`${req.method}\t${req.headers.origin}\t${req.url}`)
-next()}
-)
+const cors = require('cors')
+const {logger} =require('./middleware/logEvent');
+app.use(logger )
+    app.use(cors());
 app.use(express.static(path.join(__dirname,'./public')))
 const one = (req,res,next) =>{
     console.log("One has been completed")

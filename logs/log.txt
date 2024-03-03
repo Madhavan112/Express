@@ -1,0 +1,8 @@
+03032024	13:44:37	0be39437-66ea-4a57-bf82-ecf8b9ef38d6	GET	undefined	/
+03032024	13:44:37	7346743c-8c96-4763-b592-faaf7c208688	GET	undefined	/styles/style.css
+03032024	13:49:04	3599bddd-115e-4f75-b53c-8303815a0d66	GET	undefined	/
+03032024	13:49:04	12dc1334-cd0a-4790-bb80-cbafec2522b4	GET	undefined	/styles/style.css
+03032024	13:49:16	4d35f2e5-ef30-49b7-ad72-f08d11bec2ae	GET	undefined	/
+03032024	13:49:16	31a06e57-70d4-4895-8459-1933a65672d0	GET	undefined	/styles/style.css
+03032024	13:50:27	abea440a-8d21-4c8e-a815-435882998ba0	OPTIONS	https://www.google.com	/
+03032024	13:50:27	9f784513-313a-452f-aed2-b5c9f473965d	GET	https://www.google.com	/
