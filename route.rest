@@ -1,0 +1,10 @@
+GET http://localhost:40/player
+
+###
+POST http://localhost:40/player
+Content-Type: application/json
+
+{
+    "Name":"Henrich Klassen",
+    "Runs": 591
+}

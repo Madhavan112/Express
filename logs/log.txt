@@ -35,3 +35,7 @@
 04032024	11:03:53	6d9cc394-37d1-496d-a7f0-43995fd05b0d	GET	undefined	/styles/style.css
 04032024	11:03:53	0472cec9-55fd-4cdd-9b8f-741528fd28f0	GET	undefined	/styles/style.css
 04032024	11:03:53	a802e718-aea7-4cc8-ae13-0648781ba4cc	GET	undefined	/styles/style.css
+04032024	17:18:58	98dc1a33-cc89-4580-a7e4-04b732c4dd3a	GET	undefined	/
+04032024	17:18:58	715555ab-58e5-4aa0-8aba-1acfec7f2a01	GET	undefined	/styles/style.css
+04032024	17:18:58	f260980b-164c-4279-adc9-21f5bf938574	GET	undefined	/favicon.ico
+04032024	17:19:04	29b2ca24-db32-45f8-affb-f7bfd4242b4b	GET	undefined	/styles/style.css
